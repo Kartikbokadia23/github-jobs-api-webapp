@@ -8,6 +8,17 @@
     --card-border-color: white;
 }
 
+
+[data-theme="dark"] {
+    --primary-color: rgb(131 128 189);
+    --primary-gradient: linear-gradient(90deg, rgb(0 0 0) 0%, rgb(51 47 47) 100%);
+    --main-bg-color: rgb(19 19 19);
+    --bg-color: black;
+    --font-color: white;
+    --btn-bg-color: rgba(62,55,187,1);
+    --card-border-color: #322e2e;
+}
+
 body, h1 , h2, h3, h4, h5, h6{
     margin: 0;
     padding: 0;

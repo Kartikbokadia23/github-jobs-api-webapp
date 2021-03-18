@@ -34,3 +34,16 @@ function getDescription(data){
     document.getElementsByClassName('description-body')[0].innerHTML += jsonData.description
     document.getElementsByClassName('description-body')[0].innerHTML += jsonData.how_to_apply
 }
+
+const toggleSwitch = document.querySelector('.switch input[type="checkbox"]');
+
+function switchTheme(e) {
+    if (e.target.checked) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+    else {
+        document.documentElement.setAttribute('data-theme', 'light');
+    }    
+}
+
+toggleSwitch.addEventListener('change', switchTheme, false);
