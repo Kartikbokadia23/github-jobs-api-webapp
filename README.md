@@ -40,6 +40,6 @@
 
 #### Mobile view
 <p display = "flex">
-<img src = "assets/images/Screenshot 2021-03-17 at 1.58.06 PM.png">
-<img src = "assets/images/Screenshot 2021-03-17 at 1.58.29 PM.png">
+<img src = "assets/images/Screenshot 2021-03-17 at 1.58.06 PM.png" width="400">
+<img src = "assets/images/Screenshot 2021-03-17 at 1.58.29 PM.png" width="400">
 </p>
