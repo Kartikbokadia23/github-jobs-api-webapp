@@ -26,10 +26,17 @@
 
 #### Desktop view
 <p display = "flex">
-<img src = "assets/images/Screenshot 2021-03-17 at 1.56.49 PM.png" width="450">
-<img src = "assets/images/Screenshot 2021-03-17 at 1.57.12 PM.png" width="450">
-<img src = "assets/images/Screenshot 2021-03-17 at 1.57.34 PM.png" width="450">
+<img src = "assets/images/Screenshot 2021-03-17 at 1.56.49 PM.png" width="400">
+<img src = "assets/images/Screenshot 2021-03-17 at 1.57.12 PM.png" width="400">
+<img src = "assets/images/Screenshot 2021-03-17 at 1.57.34 PM.png" width="400">
 </p>
+
+#### Desktop view - dark mode
+<p display = "flex">
+<img src = "assets/images/Screenshot 2021-03-18 at 12.21.54 PM.png" width="400">
+<img src = "assets/images/Screenshot 2021-03-18 at 12.24.01 PM.png" width="400">
+</p>
+
 
 #### Mobile view
 <p display = "flex">
